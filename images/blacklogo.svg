@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1292.75 461.1">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.11em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-3 {
+        font-family: Montserrat-ExtraBold, Montserrat;
+        font-size: 161px;
+        font-weight: 700;
+      }
+
+      .cls-4 {
+        fill: #d63416;
+      }
+
+      .cls-4, .cls-5, .cls-6, .cls-7, .cls-8 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-5 {
+        fill: #f5f6f6;
+      }
+
+      .cls-10 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-6 {
+        fill: #8fb1bd;
+      }
+
+      .cls-11, .cls-12 {
+        letter-spacing: -.06em;
+      }
+
+      .cls-7 {
+        fill: #a1cbad;
+      }
+
+      .cls-12, .cls-13 {
+        fill: #1a1b1b;
+      }
+    </style>
+  </defs>
+  <g id="Layer_8" data-name="Layer 8">
+    <g>
+      <path class="cls-13" d="M55.49,383.61h0v-41.3L342.31,56.02h41.3v41.3L96.78,383.61H55.49Z"/>
+      <path class="cls-13" d="M342.31,383.61L56.02,97.32V56.02h0c16.13,0,25.17,0,41.3,0L383.61,342.31v41.3h0c-16.13,0-25.17,0-41.3,0Z"/>
+      <path class="cls-13" d="M219.81,439.63h0c-16.59-16.59-25.89-25.89-42.47-42.47V42.47c16.59-16.59,25.89-25.89,42.47-42.47h0c16.59,16.59,25.89,25.89,42.47,42.47V397.15c-16.59,16.59-25.89,25.89-42.47,42.47Z"/>
+      <path class="cls-13" d="M0,219.81c16.59-16.59,25.89-25.89,42.47-42.47H397.15c16.59,16.59,25.89,25.89,42.47,42.47h0c-16.59,16.59-25.89,25.89-42.47,42.47H42.47c-16.59-16.59-25.89-25.89-42.47-42.47"/>
+    </g>
+    <text class="cls-3" transform="translate(439.62 149.95)"><tspan class="cls-13"><tspan class="cls-1" x="0" y="0">P</tspan><tspan class="cls-2" x="101.75" y="0">A</tspan><tspan class="cls-9" x="212.36" y="0">W</tspan><tspan class="cls-11" x="390.91" y="0">ILION </tspan></tspan><tspan class="cls-4" x="0" y="134">L</tspan><tspan class="cls-7" x="88.55" y="134">E</tspan><tspan class="cls-6" x="187.08" y="134">D</tspan><tspan class="cls-12" x="310.4" y="134">s</tspan><tspan class="cls-5" x="388.81" y="134"> </tspan><tspan class="cls-13"><tspan class="cls-8" x="0" y="268">EDI</tspan><tspan class="cls-10" x="266.77" y="268">T</tspan><tspan class="cls-8" x="357.74" y="268">OR</tspan></tspan></text>
+  </g>
+</svg>

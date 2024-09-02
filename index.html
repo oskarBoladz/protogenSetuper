@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="./matrix_class.js" defer></script>
+    <script src="./preset_calss.js" defer></script>
+
+    <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+    <img src="./images/blacklogo.svg" class="floating-logo ui">
+    <div class="header-container ui">
+        <img src="./images/setting.svg">
+        <!-- <span>PRESET</span>
+        <span>EXPORT</span>
+        <span>IMPORT</span>
+        <span>SYMETRY</span> -->
+    </div>
+
+    <div class="data-container ui">
+        <table>
+            <tr>
+                <td>PRESET NAME</td>
+                <td>mk5</td>
+                </tr>
+                <tr>
+                <td>MATRIX COUNT</td>
+                <td>16</td>
+                </tr>
+                <tr>
+                <td>SECTIONS</td>
+                <td>7</td>
+                </tr>
+        </table>
+    </div>
+
+    <div class="leftmenu-container ui">
+        <div class="leftmenu-container-item i2">
+        <span>NORMAL</span>
+        <span>BOOPED</span>
+        <span>ANGRY 1</span>
+        <span>ANGRY 2</span>
+        </div>
+        <div class="leftmenu-container-item i1">
+            <span>mk 5</span>
+            <span>mk 3/ mk 2</span>
+            </div>
+    </div>
+
+    <div class="paintmenu-container ui">
+        <img class="paintmenu-container_img" src="images/copy.svg" onclick="getFaceSetup()">
+        <img class="paintmenu-container_img" src="images/emoji.svg">
+        <div class="e_border"></div>
+        <img class="paintmenu-container_img" src="images/pallet.svg">
+        <img class="paintmenu-container_img" src="images/eraser.svg">
+        <img class="paintmenu-container_img" src="images/brush.svg">
+    </div>
+
+
+    <dialog id="settingDialog ">
+        <div class="settingLeft">
+
+            <span>EXPORT</span>
+            <span>IMPORT</span>
+            <span>SYMETRY</span>
+            <button>DARK MODE</button>
+        </div>
+        <div class="settingRight">
+
+        </div>
+    </dialog>
+
+    <div id="led-box">
+<div id="up"></div>
+<div id="down"></div>
+    </div>
+</body>
+</html>
